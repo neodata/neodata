@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neodata also known as Fred MAKITA
 - 👀 I’m interested in Data Analytics in the following fields Marketing, Healthcare, Sport and Gaming
-- 🌱 I’m currently learning Python for Data Science with Coursera
-- I will share different repositeries here to show up my portfolio as well as my skills
+- 🌱 I’m currently learning Coursera program <IBM Data Analyst Professional Certificate> and <Google Data Analytics Professional Certificate>
+- I will share different repositories here to show up my portfolio as well as my skills
 - 📫 You can reach me at makitafred98@gmail.com
 
 
